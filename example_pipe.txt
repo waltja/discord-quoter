@@ -1,0 +1,1 @@
+[{'timestamp': (0.0, 7.0), 'text': ' Okay, well, this is actually not good.'}, {'timestamp': (7.0, 8.8), 'text': " Yeah, I don't know why this is..."}, {'timestamp': (8.8, 11.8), 'text': " This actually shouldn't be doing this."}, {'timestamp': (11.8, 15.4), 'text': ' Oh, is it printing the length of self-adlist.bytes?'}]
