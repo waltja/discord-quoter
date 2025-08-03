@@ -5,10 +5,9 @@ import time
 import torch
 import discord
 from discord.ext import commands, voice_recv
-from collections import defaultdict
 from transformers import AutoProcessor, AutoModelForSpeechSeq2Seq, pipeline
 
-TOKEN = "MTM3MDYwMjk5Mjc3NjI1MzUzMQ.G6W0RR.avQa1j_tnylZfNa6kCcM8R2Q4t0AXau445ribg"
+TOKEN = "   "
 MODEL_ID = "openai/whisper-large-v3"
 
 # — Whisper Setup —
